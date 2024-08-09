@@ -2,7 +2,7 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
 export default function About() {
-    const navigate = useNavigate(); // `navigate` should be lowercase
+    const navigate = useNavigate(); 
 
     return (
         <div>
